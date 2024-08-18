@@ -11,4 +11,5 @@ My first application
 .. _`The BeeWare Project`: https://beeware.org/
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 
-<a href="https://www.flaticon.com/free-icons/user-gear" title="user gear icons">User gear icons created by Md Tanvirul Haque - Flaticon</a>
+https://www.flaticon.com/free-icons/user-gear
+https://www.flaticon.com/br/icones-gratis/botao-home
