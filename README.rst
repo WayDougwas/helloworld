@@ -11,5 +11,5 @@ My first application
 .. _`The BeeWare Project`: https://beeware.org/
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 
-https://www.flaticon.com/free-icons/user-gear
+https://www.flaticon.com/free-icons/user-gear/
 https://www.flaticon.com/br/icones-gratis/botao-home
